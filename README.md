@@ -43,3 +43,7 @@ Setze dich mit folgendem Artikel auseinander:
 https://www.campusjaeger.de/karriereguide/gehalt/junior-webentwickler-gehalt
 
 Wie hoch ist das Brutto-Monatsgehalt eines Junior Web-Entwicklers?
+
+Recherchiere auf Google, wie hoch der Durchschnittsverdienst in Deutschland ist.
+
+Vergleiche beide Zahlen miteinander. Liegt der Junior Web-Entwickler über dem Durchschnittsverdienst?
