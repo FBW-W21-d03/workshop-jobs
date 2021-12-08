@@ -12,14 +12,6 @@ Versetze dich in die Situation eines arbeitssuchenden Web Entwicklers.
 Gesucht wird eine Vollzeitstelle in der Position eines Junior Full-Stack-Entwicklers
 -------------------------------------------------------
 Webentwickler, Full Stack, Junior Web Engineer
------------------------------------------------------------
-Durchschnittliches Grundgehalt
-Das Durchschnittsgehalt für den Jobtitel junior softwareentwickler (m/w/d) liegt in Deutschland bei 48.873 € pro Jahr.
-20,33 € pro Stunde
-251 € pro Tag
-894 € pro Woche
-3.460 € pro Monat
-----------------------------------------------------------------------------------------------------------
 --------------------------------------------------------------------------- 1. Jobcenter --->
 https://www.arbeitsagentur.de/jobsuche/suche?angebotsart=1&was=Webentwickler,%20Full%20Stack,%20Junior%20Web%20Engineer&wo=Hamburg&umkreis=100&id=10000-1186810446-S
 Softwareentwickler/in
@@ -250,7 +242,7 @@ Diese Firma macht einen ziemlich konservativen Eindruck auf mich.
 Flexible Arbeitzeit
 ___________________________________________________________________________
 Aufgabenstellung - Teil 3
-Kununu (https://www.kununu.com/) ist eine Plattform, in der Mitarbeiter ihren Arbeitgeber anonym bewerten können.
+Kununu (https://www.kununu.com/ ) ist eine Plattform, in der Mitarbeiter ihren Arbeitgeber anonym bewerten können.
 Die Plattform sammelt die Bewertungen und stellt sie im Internet zur Verfügung.
 Folge dem Link, um auf Mitarbeiterberwertungen zur DCI zuzugreifen:
 https://www.kununu.com/de/dci-digital-career-institute-ggmbh
@@ -261,5 +253,21 @@ Wie hoch ist die Weiterempfehlungsrate?
 73%
 Gibt es Angaben zu Gehältern und zur Firmenpolitik?
 ja.
-Suche nun nach weiteren Unternehmen (z.B. aus den Stellenangeboten aus Aufgabenteil 1).
-ok.
+_______________________________________________________________
+Aufgabenstellung - Teil 4
+Setze dich mit folgendem Artikel auseinander:
+https://www.campusjaeger.de/karriereguide/gehalt/junior-webentwickler-gehalt
+Wie hoch ist das Brutto-Monatsgehalt eines Junior Web-Entwicklers?
+-----------------------------------------------------------
+Durchschnittliches Grundgehalt
+Das Durchschnittsgehalt für den Jobtitel junior softwareentwickler (m/w/d) liegt in Deutschland bei 48.873 € pro Jahr.
+20,33 € pro Stunde
+251 € pro Tag
+894 € pro Woche
+3.460 € pro Monat
+----------------------------------------------------------------------------------------------------------
+Recherchiere auf Google, wie hoch der Durchschnittsverdienst in Deutschland ist.
+4.500 € p.M
+Vergleiche beide Zahlen miteinander. Liegt der Junior Web-Entwickler über dem Durchschnittsverdienst?
+Nein.
+

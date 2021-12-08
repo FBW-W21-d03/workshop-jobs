@@ -5,6 +5,9 @@ body{
     display: grid;
     margin: 3rem 20rem;
     margin-bottom: 5rem;
+    font-size: 1.1rem;
+    justify-content: center;
+    align-items: center;
 }
 a{
     color: cyan;
@@ -33,17 +36,29 @@ button{
 }
 .dsGehalt{
     color: rgba(0, 255, 255, 0.548);
+       text-align: center;
+    margin-top: .5rem; 
+}
+.googleRech{
+    text-align: center;
+    color:  rgba(0, 255, 255, 0.548);
 }
 .innerBox{
     display: grid;
-}
-#googleRech{
-    text-align: center;
-    margin-top: .5rem;
 }
 #center{
     text-align: right;
 }
 img{
     margin-top: 2rem;
+    height: 90%;
+    width: 90%;
+}
+h5{
+    text-align: center;
+    margin-top: 3rem;
+}
+#bild{
+    display: flex;
+    justify-content: center;
 }
