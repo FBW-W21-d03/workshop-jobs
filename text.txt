@@ -1,0 +1,248 @@
+workshop-jobs
+
+Versetze dich in die Situation eines arbeitssuchenden Web Entwicklers. 
+Gesucht wird eine Vollzeitstelle in der Position eines Junior Full-Stack-Entwicklers.
+
+Aufgabenstellung - Teil 1
+
+Vergleiche folgende Stellenbörsen miteinander und finde jeweils ein passendes Stellenangebot:
+
+1. 
+https://www.arbeitsagentur.de/jobsuche/ 
+Webentwickler, Web Developer Personalmarketing
+EUROIMMUN Medizinische Labordiagnostika AG
+https://jobs.jobspreader.com/viewjob-ccgyn?utm_source=jsba-premium&utm_medium=n-a&utm_campaign=it&utm_term=webentwickler-web-developer-m-d-w
+
+2.
+https://de.indeed.com/
+Webentwickler (m/w/d) im Bereich E-Health (Remote)
+medatixx GmbH & Co. KG
+https://de.indeed.com/Jobs?q=Webentwickler&l=L%C3%BCbeck&vjk=7d0872bda0f63d96&advn=1738101541745522
+
+
+3.
+https://www.monster.de/jobs/
+Anwendungsentwickler (m/w/d)
+GULP Solution Services GmbH
+https://www.monster.de/jobs/suche?q=Webentwickler&where=23564&page=3
+
+
+4.
+https://www.stepstone.de/
+Frontendentwickler (w/m/d)
+Tarifcheck24 GmbH
+https://www.stepstone.de/stellenangebote--Frontendentwickler-w-m-d-Wentorf-Tarifcheck24-GmbH--7687177-inline.html?suid=3a97ecf2-961b-4219-bda8-d04351213e53&rltr=3_3_25_dynrl_m_0_0_0_0_1_0
+
+
+5.
+https://www.jobware.de/
+Werkstudent (gn) bzw. Praktikant (gn) im Bereich Software Development
+NORD DRIVESYSTEMS
+https://www.jobware.de/job/werkstudent-gn-praktikant-gn-im-bereich-software-development.658181705.html
+
+Tipp: Verwende Suchbegriffe wie "Webentwickler", "Full Stack" und "Junior Web Engineer".
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Aufgabenstellung - Teil 2
+
+Schreibe aus den Stellenangeboten aus Aufgabenteil 1 folgende Eckdaten zusammen:
+
+    Sind schulische oder berufliche Vorerfahrungen erwünscht?
+
+    Stellenangebot 1:
+    Sie bringen mehrjährige Berufserfahrung in der Frontend-Webentwicklung mit und kennen sich mit HTML, CSS und JavaScript bestens aus
+    Darüber hinaus haben Sie ein grundlegendes Verständnis von Backend-Technologien (PHP, MySQL) und bereits mit Content Managementsystemen (Typo3, WordPress o.ä.) gearbeitet
+    Um stets auf dem aktuellen Stand zu bleiben, sind Sie bereit, sich regelmäßig weiterzubilden
+    Flexibilität, Teamgeist und Ihre Kommunikationsstärke machen Sie zu einem geschätzten und kompetenten Ansprechpartner bei der Umsetzung passgenauer Online-Lösungen
+    Ihr Studium der Medieninformatik, Informatik, oder Ihre Ausbildung als Fachinformatiker für Anwendungsentwicklung haben Sie erfolgreich abgeschlossen, alternativ verfügen Sie über eine vergleichbare Qualifikation
+
+    Stellenangebot 2:
+    Sie haben ein abgeschlossenes Studium der Informatik oder vergleichbare Qualifikation und verfügen zudem über gute Kenntnisse in HTML5, CSS und JavaScript
+    Idealerweise verfügen Sie über Kenntnisse in Microsoft SQL Server mit Entity Framework, C# sowie in der Entwicklung von Apps
+    Sie haben Kenntnisse in der Entwicklung von Cloud-Anwendungen (Microsoft Azure), Erfahrung mit ASP.NET WebAPI sind wünschenswert
+    Sie haben einen hohen Qualitätsanspruch an sich selbst, besitzen eine ergebnisorientierte Arbeitsweise und zeichnen sich als Teamplayer aus
+    Sie besitzen sehr gute Deutschkenntnisse sowie eine kommunikative Persönlichkeit
+
+    Stellenangebot 3:
+    Sichere Deutsch- und Englischkenntnisse in Wort und Schrift 
+    Abgeschlossenes Studium im Bereich IT, eine vergleichbare Ausbildung (Anwendungsentwickler) oder entsprechende Berufserfahrung
+    Berufserfahrung in der Softwareentwicklung wünschenswert
+    Praktische Erfahrung mit C# sowie gute Kenntnisse in .NET
+
+
+    Stellenangebot 4:
+    Keine Schulische oder berufliche Vorerfahrungen nötig
+
+
+    Stellenangebot 5:
+    Immatrikulation im Bereich Informatik, Wirtschaftsinformatik oder oder in einer ähnlichen Fachrichtung
+    Erfahrung in der Softwareentwicklung
+    Kenntnisse in objektorientierter Entwicklung mit C#, Java oder PHP
+    Know-how in Webtechnologien (z.B. HTML, CSS, JavaScript, Angular) und in Datenbanken (MS SQL)
+
+
+
+
+
+    Werden bestimmte Technologien erwähnt (z.B. React oder HTML)?
+
+    Stellenangebot 1:
+    Backend-Technologien (PHP, MySQL) und Content Managementsystemen (Typo3, WordPress o.ä.)
+
+
+    Stellenangebot 2:
+    Kenntnisse in HTML5, CSS und JavaScript
+    Kenntnisse in Microsoft SQL Server mit Entity Framework, C#
+    Kenntnisse in der Entwicklung von Cloud-Anwendungen (Microsoft Azure), Erfahrung mit ASP.NET WebAPI sind wünschenswert
+    
+
+    Stellenangebot 3:
+    Anwendung von verschiedenen Technologien (.NET, Visual Studio 2017, Web API, MS-SQL 2014, TFS 2015)
+    Ganzheitliche Softwareentwicklung (von der User Story bis zum Rollout)
+    Verständnis von Clean Code
+    Erfahrung mit Architekturen (SOA, REST) und nachrichtenbasierten Integrationsplattformen
+    Praktische Erfahrung mit C# sowie gute Kenntnisse in .NET
+
+
+    Stellenangebot 4:
+    Kenntnisse in HTML / CSS und Webstandards sowie Erfahrung mit Content-Management-Systemen
+    Erfahrung mit JavaScript, Responsive und Mobile
+
+
+    Stellenangebot 5:
+    Kenntnisse in objektorientierter Entwicklung mit C#, Java oder PHP
+    Know-how in Webtechnologien (z.B. HTML, CSS, JavaScript, Angular) und in Datenbanken (MS SQL) 
+    Begeisterung für Continuous Integration (Continuous Delivery)
+
+
+
+
+
+    Was bietet das Unternehmen seinen Mitarbeitern an (z.B. flexible Gleitzeit)?
+
+    Stellenangebot 1:
+    Ein sicherer Arbeitsplatz auch während Corona – wir stellen weiterhin mit unbefristetem Vertrag ein
+    Sie haben nach der Probezeit die Möglichkeit, mobil zu Hause zu arbeiten
+    Unbefristeter Arbeitsvertrag in Vollzeit
+    30 Urlaubstage pro Jahr
+    Gleitzeitmodell mit Arbeitszeitkonto
+    Flache Hierarchien und ein kollegiales DU vom Azubi bis zum Vorstand
+    Exzellentes Essen in unserem erstklassigen Betriebsrestaurant und Getränkeflatrate (Kaffee, Tee, Wasserspender)
+    Betriebssportgruppen (Fußball, Volleyball, Zumba) und Teilnahme an Sportevents wie z. B. Drachenbootrennen
+    Zuschüsse zur betrieblichen Altersvorsorge
+
+    Stellenangebot 2:
+    Attraktives Paket an Gesundheits- und Sozialleistungen
+    Flexible Arbeitszeiten und Überstundenausgleich durch Freizeit
+    Individuelle Weiterbildungs- und Entwicklungsmöglichkeiten
+    Krippen- und Kindergartenzuschuss
+    Sabbatical
+    Obst- und Verpflegungstage sowie kostenlose Getränke
+    Firmen- und Teamevents
+
+
+    Stellenangebot 3:
+    Direkte Personalvermittlung in eine Festanstellung bei unserem Kundenunternehmen
+    Einzigartiges Netzwerk sowohl zu Großunternehmen als auch zu mittelständischen Firmen in der Region
+    Zielgerichtete Platzierung Ihres Profils bei den Entscheidungsträgern
+    Absolute Vertraulichkeit sowie Einhaltung von Sperrvermerken
+    Attraktive, leistungsgerechte Vergütung
+
+
+    Stellenangebot 4:
+    Ein sehr gutes Gehalt und attraktive Boni
+    Einen unbefristeten Arbeitsvertrag
+    Eine umfangreiche Einarbeitung
+    Regelmäßige Team-Events und Ausflüge (in der Vergangenheit u. a. nach Las Vegas, Dänemark, Wattenmeer u. v. m.!)
+    Einen großzügigen und modernen Arbeitsplatz
+    Eine sehr gute Arbeitsatmosphäre in einem motivierten Team
+    Kostenfreie Verpflegung (Getränke, Obst, Frühstück, Verpflegungs­gutscheine)
+
+
+    Stellenangebot 5:
+    Profitieren Sie von den vielfältigen Möglichkeiten eines expandierenden internationalen Unternehmens. 
+    Ein moderner Arbeitsplatz, ein motiviertes Team sowie eine angemessene Bezahlung warten auf Sie! 
+
+
+
+
+    Zeichnet sich das Unternehmen durch eine bestimmte Firmenpolitik aus?
+
+    Stellenangebot 3:
+    Corona-Virus & Bewerbung bei GULP: Die Gesundheit unserer Kandidaten und Mitarbeiter und unsere gemeinschaftliche Verantwortung haben höchste Priorität für uns. 
+    Neben Arbeitsbedingungen, die alle aktuell notwendigen Vorsichtsmaßnahmen berücksichtigen, ist auch unser Bewerbungsprozess ohne direkten und persönlichen Kontakt möglich
+    
+
+    Frage : Was bedeuted der Begriff "Gleitzeit"?
+
+    Antwort :
+    Wenn dein Arbeitgeber ein Gleitzeitmodell anbietet, bedeutet das, dass du keine festen Arbeitszeiten, zum Beispiel von 7 bis 16 Uhr, hast. 
+    Vielmehr kannst du selbst entscheiden, wann du deine Arbeit beginnst und wann du Feierabend machst.
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Aufgabenstellung - Teil 3
+
+Kununu (https://www.kununu.com/) ist eine Plattform, in der Mitarbeiter ihren Arbeitgeber anonym bewerten können.
+
+Die Plattform sammelt die Bewertungen und stellt sie im Internet zur Verfügung.
+
+Folge dem Link, um auf Mitarbeiterberwertungen zur DCI zuzugreifen:
+
+https://www.kununu.com/de/dci-digital-career-institute-ggmbh
+
+Beantworte nun folgende Fragen:
+
+    Welchen Score hat die DCI erreicht?
+    Antwort:
+    4,0
+
+    Wie hoch ist die Weiterempfehlungsrate?
+    Antwort:
+    73%
+
+    Gibt es Angaben zu Gehältern und zur Firmenpolitik?
+
+    Antwort zu Gehalt :
+    Marketing Manager:in 42.300 €
+    Sales Manager:in     37.400 €
+    Leiter:in Personal   51.500 €
+    Recruiter:in         38.500 €
+    Bildungsberater      34.400 €
+
+
+
+
+Suche nun nach weiteren Unternehmen (z.B. aus den Stellenangeboten aus Aufgabenteil 1).
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+Aufgabenstellung - Teil 4
+
+Setze dich mit folgendem Artikel auseinander:
+
+https://www.campusjaeger.de/karriereguide/gehalt/junior-webentwickler-gehalt
+
+Wie hoch ist das Brutto-Monatsgehalt eines Junior Web-Entwicklers?
+
+Antwort : 
+Deutschlandweit verdienen Junior Webentwickler im Schnitt 3.050 € brutto pro Monat.
+Die typische Gehaltsspanne liegt zwischen 2.110 € bis 4.350 € pro Monat.
+
+
+Recherchiere auf Google, wie hoch der Durchschnittsverdienst in Deutschland ist.
+
+Antwort :
+Betrachtet man alle Arbeitnehmer in Deutschland, also auch alle Arbeitnehmer in Teilzeit oder in geringfügiger Beschäftigung, lag das Durchschnittsgehalt im gleichen Jahr bei rund 3.092 Euro im Monat.
+Das Durchschnittseinkommen aller Arbeitnehmer betrug monatlich 2.084 Euro netto.
+
+Vergleiche beide Zahlen miteinander. Liegt der Junior Web-Entwickler über dem Durchschnittsverdienst?
+
+Antwort: Ja ist etwas über dem Durchschnittsverdienst
+
+
+
+
+
