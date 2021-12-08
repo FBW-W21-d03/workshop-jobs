@@ -4,7 +4,7 @@ Versetze dich in die Situation eines arbeitssuchenden Web Entwicklers.
 Gesucht wird eine Vollzeitstelle in der Position eines Junior Full-Stack-Entwicklers.
 
 ## Aufgabenstellung - Teil 1
-Vergleiche foldende Stellenbörsen miteinander und finde jeweils ein passendes Stellenangebot:
+Vergleiche folgende Stellenbörsen miteinander und finde jeweils ein passendes Stellenangebot:
 1. https://www.arbeitsagentur.de/jobsuche/
 2. https://de.indeed.com/
 3. https://www.monster.de/jobs/
