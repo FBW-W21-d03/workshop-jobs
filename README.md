@@ -11,7 +11,7 @@ Vergleiche foldende Stellenbörsen miteinander und finde jeweils ein passendes S
 4. https://www.stepstone.de/
 5. https://www.jobware.de/
 
-Tipp: Verwende Suchebgriffe wie "Webentwickler", "Full Stack" und "Junior Web Engineer".
+Tipp: Verwende Suchbegriffe wie "Webentwickler", "Full Stack" und "Junior Web Engineer".
 
 ## Aufgabenstellung - Teil 2
 Schreibe aus den Stellenangeboten aus Aufgabenteil 1 folgende Eckdaten zusammen:
