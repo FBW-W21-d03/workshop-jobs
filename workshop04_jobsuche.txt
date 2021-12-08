@@ -1,13 +1,11 @@
 # workshop-jobs
 ## Aufgabenstellung - Teil 1
-Vergleiche folgende StellenbÃ¶rsen miteinander und finde jeweils ein passendes Stellenangebot:
-
+Vergleiche folgende Stellenbörsen miteinander und finde jeweils ein passendes Stellenangebot:
 1. https://www.arbeitsagentur.de/jobsuche/
 2. https://de.indeed.com/
 3. https://www.monster.de/jobs/
 4. https://www.stepstone.de/
 5. https://www.jobware.de/
-
 Tipp: Verwende Suchbegriffe wie "Webentwickler", "Full Stack" und "Junior Web Engineer".
 
 Versetze dich in die Situation eines arbeitssuchenden Web Entwicklers.
@@ -16,41 +14,35 @@ Gesucht wird eine Vollzeitstelle in der Position eines Junior Full-Stack-Entwick
 Webentwickler, Full Stack, Junior Web Engineer
 -----------------------------------------------------------
 Durchschnittliches Grundgehalt
-Das Durchschnittsgehalt fÃ¼r den Jobtitel junior softwareentwickler (m/w/d) liegt in Deutschland bei 48.873 â‚¬ pro Jahr.
-20,33 â‚¬ pro Stunde
-251 â‚¬ pro Tag
-894 â‚¬ pro Woche
-3.460 â‚¬ pro Monat
-__________________________________________________________________
+Das Durchschnittsgehalt für den Jobtitel junior softwareentwickler (m/w/d) liegt in Deutschland bei 48.873 € pro Jahr.
+20,33 € pro Stunde
+251 € pro Tag
+894 € pro Woche
+3.460 € pro Monat
+----------------------------------------------------------------------------------------------------------
 --------------------------------------------------------------------------- 1. Jobcenter --->
-
 https://www.arbeitsagentur.de/jobsuche/suche?angebotsart=1&was=Webentwickler,%20Full%20Stack,%20Junior%20Web%20Engineer&wo=Hamburg&umkreis=100&id=10000-1186810446-S
-
 Softwareentwickler/in
-
+Veröffentlicht: 25.11.2021
 Junior - Entwickler C#/ASP.NET Core Full Stack (m/w/d)
-
 VPL Leasing GmbH
 Arbeitgeberlogo von VPL Leasing GmbH
 Typ: Arbeit
 Arbeitszeit: Vollzeit
 Eintrittsdatum: ab sofort
 Arbeitsort: Hamburg
-
 Stellenbeschreibung
 |IT| |Informatik| |Wirtschaftsinformatik| |m/w/d| |Softwareentwicklung| |Web-Entwickler| |Web Developer| |Hamburg| |Festanstellung| |unbefristet| |Vollzeit| |offene Stelle|
-
-Die VPL Leasing ist einer der fÃ¼hrenden Spezialisten im Bereich der Absatzfinanzierung fÃ¼r mobile InvestitionsgÃ¼ter - inhabergefÃ¼hrt und mittelstÃ¤ndisch. Wir bieten HÃ¤ndlern und Herstellern in ganz Deutschland flexible, passgenaue FinanzierungslÃ¶sungen und moderne Vertriebsdienstleistungen.
-Unsere Kunden sind meist grÃ¶ÃŸere, regional starke mittelstÃ¤ndische Firmen Ã¼berwiegend aus den Branchen IT/EDV, Telekommunikation, Sicherheitstechnik, BÃ¼roausstattung und Medizintechnik.
-VERANTWORTUNG ÃœBERNEHMEN - ZUKUNFT GESTALTEN
-Damit wir auch weiterhin am Ball bleiben kÃ¶nnen, befinden wir uns in einem umfangreichen Digitalisierungsprozess, der auch die Neuentwicklung einiger unserer Inhouse-LÃ¶sungen betrifft.
-
+Die VPL Leasing ist einer der führenden Spezialisten im Bereich der Absatzfinanzierung für mobile Investitionsgüter – inhabergeführt und mittelständisch. Wir bieten Händlern und Herstellern in ganz Deutschland flexible, passgenaue Finanzierungslösungen und moderne Vertriebsdienstleistungen.
+Unsere Kunden sind meist größere, regional starke mittelständische Firmen überwiegend aus den Branchen IT/EDV, Telekommunikation, Sicherheitstechnik, Büroausstattung und Medizintechnik.
+VERANTWORTUNG ÜBERNEHMEN – ZUKUNFT GESTALTEN
+Damit wir auch weiterhin am Ball bleiben können, befinden wir uns in einem umfangreichen Digitalisierungsprozess, der auch die Neuentwicklung einiger unserer Inhouse-Lösungen betrifft.
 Wir suchen:
 (Junior-) Software Entwickler / Anwendungsentwickler C#/ASP.NET Core Full Stack (m/w/d) in Vollzeit
 AUFGABEN:
-? Du entwickelst auf Basis von C# eine Webapplikation von Grund auf neu. Dies beinhaltet sowohl Frontend- als auch Backend-Entwicklung. Diese Anwendung ist das AushÃ¤ngeschild der VPL bei unseren Vertriebspartnern. Wir setzen daher auf Dein hohes QualitÃ¤tsbewusstsein.
-? Du bist mitverantwortlich fÃ¼r den vollstÃ¤ndigen Software-Entwicklungsprozess. Du gestaltest zusammen in einem kleinen Team von der User Story Ã¼ber die Architektur alles mit.
-? Durch Tests stellst Du die QualitÃ¤t und Wartbarkeit Deines Codes sicher.
+? Du entwickelst auf Basis von C# eine Webapplikation von Grund auf neu. Dies beinhaltet sowohl Frontend- als auch Backend-Entwicklung. Diese Anwendung ist das Aushängeschild der VPL bei unseren Vertriebspartnern. Wir setzen daher auf Dein hohes Qualitätsbewusstsein.
+? Du bist mitverantwortlich für den vollständigen Software-Entwicklungsprozess. Du gestaltest zusammen in einem kleinen Team von der User Story über die Architektur alles mit.
+? Durch Tests stellst Du die Qualität und Wartbarkeit Deines Codes sicher.
 	FACHLICHE KENNTNISSE:
 ? Abgeschlossenes Studium z.B. Informatik, Wirtschaftsinformatik oder einen vergleichbaren Studiengang z.B. Informatiker/in, Wirtschaftsinformatiker/in, Web-Entwickler, Web-Developer (alle m/w/d)
 ? Oder abgeschlossene Berufsausbildung in diesem Bereich z.B.: Fachinformatiker - Anwendungsentwicklung, Entwickler C# (alle m/w/d)
@@ -58,192 +50,169 @@ AUFGABEN:
 ? Kenntnisse mit Microsoft SQL-Server, dem Entity Framework Core und Docker sind von Vorteil
 ? Visual Studio 2019 und Azure DevOps 2019 sind Deine Werkzeuge
 ? Agiles Mindset und Erfahrung mit Entwicklungspraktiken
-? Ausreichende Deutschkenntnisse, um Dich mit Deinen Kollegen verstï¿½ndigen zu kï¿½nnen.
+? Ausreichende Deutschkenntnisse, um Dich mit Deinen Kollegen verständigen zu können.
 Du arbeitest gerne im Team, gibst Dein Wissen aktiv weiter, kannst aber auch mit konstruktiver Kritik umgehen.
 	ARBEITSUMGEBUNG:
-Dein Arbeitsplatz vor Ort ist mit modernster Technik ausgestattet. Du arbeitest mit einem Kollegen zusammen. Bei Bedarf wirst Du von 2-3 externen Dienstleister unterstÃ¼tzt, die wir regelmÃ¤ÃŸig mit einbinden. Die MÃ¶glichkeit zum Home-Office ist gegeben.
-
-/rot/----------------------------------------/rot/
+Dein Arbeitsplatz vor Ort ist mit modernster Technik ausgestattet. Du arbeitest mit einem Kollegen zusammen. Bei Bedarf wirst Du von 2-3 externen Dienstleister unterstützt, die wir regelmäßig mit einbinden. Die Möglichkeit zum Home-Office ist gegeben.
+----------------------------------------/rot/
 	WIR BIETEN:
-? Einen langfristig ausgerichteten, sicheren, unbefristeten Arbeitsplatz in einem inhabergefÃ¼hrten Unternehmen, indem Deine Leistung wertgeschÃ¤tzt werden und das Dich nach Deinen persÃ¶nlichen StÃ¤rken fÃ¶rdert und weiterbildet.
-? Ein spannendes, abwechslungsreiches und herausforderndes Arbeitsumfeld, in dem Eigenverantwortung, Teamgeist und KollegialitÃ¤t groÃŸgeschrieben werden.
-? Eine Position mit groÃŸer SelbststÃ¤ndigkeit und hohem Entwicklungspotential.
-? Flache Hierarchien und groÃŸe GestaltungsfreirÃ¤ume bei der Umsetzung eigener Ideen.
+? Einen langfristig ausgerichteten, sicheren, unbefristeten Arbeitsplatz in einem inhabergeführten Unternehmen, indem Deine Leistung wertgeschätzt werden und das Dich nach Deinen persönlichen Stärken fördert und weiterbildet.
+? Ein spannendes, abwechslungsreiches und herausforderndes Arbeitsumfeld, in dem Eigenverantwortung, Teamgeist und Kollegialität großgeschrieben werden.
+? Eine Position mit großer Selbstständigkeit und hohem Entwicklungspotential.
+? Flache Hierarchien und große Gestaltungsfreiräume bei der Umsetzung eigener Ideen.
 ? Motivierte und teamorientierte Kolleginnen und Kollegen, die sich auf eine Zusammenarbeit mit Dir freuen.
 ? Eine individuelle, strukturierte Einarbeitung, die interne und externe Schulungen beinhaltet und deren Praxisphasen durch erfahrene Kollegen begleitet wird.
 ? Du profitierst von attraktiven Rahmenbedingungen wie 28 Tagen Urlaub, Gleit-/Vertrauensarbeitszeit, sowie einem Zuschuss zur HVV-Karte. 
-/rot/-----------------------------------------------/rot/
-
+-----------------------------------------------/rot/
 	BEWERBUNG:
 Deine Bewerbungsunterlagen sende bitte unter Angabe der Stellen-ID VP019-A direkt an Herrn Augustin: karriere@vpl.de
-Bei Fragen kannst Du mir vorzugsweise eine Email mit Deiner Telefonnummer schreiben, ich rufe Dich dann umgehend zurÃ¼ck. 
+Bei Fragen kannst Du mir vorzugsweise eine Email mit Deiner Telefonnummer schreiben, ich rufe Dich dann umgehend zurück. 
 Ansonsten erreichst Du mich auch unter 040-54 80 39 3-0.
-
 Anforderungen an den Bewerber
-FÃ¼hrungsverantwortung: Nicht erforderlich
+Führungsverantwortung: Nicht erforderlich
 Arbeitsorte
 Ulmenstr. 23a, 22299 Hamburg
 ___________________________________________________________________________
 ----------------------------------------------------------------------------------- 2. indeed ----> 
 https://de.indeed.com/cmp/Vesterling-Ag?from=career
-
 JAVA DEVELOPER | JAVA EE, WEBENTWICKLER, JEE (MWD)
 VESTERLING - HAVE A NICE JOB | HAMBURG
-Vesterling ist seit 25 Jahren einer der fÃ¼hrenden Personaldienstleister im Bereich Technologie. Schwerpunkte der TÃ¤tigkeit sind das Recruiting von Experten bis hin zum Executive Search auf Vorstandsebene, die DurchfÃ¼hrung von offenen und fÃ¼r Firmen maÃŸgeschneiderten Trainings, Career Services sowie das Outplacement. Unsere Personalberater sind erfahrene Informatiker und Ingenieure, beraten Sie in allen Fragen zum Thema Karriere und sind Ihnen bei der Auswahl geeigneter Positionen behilflich. Unsere Stellenangebote werden tÃ¤glich aktualisiert.
-Unser Klient ist ein international tÃ¤tiges Softwarehaus, das branchenspezifische Standardsoftware, Beratungs- und Projektdienstleistungen anbietet. Die IT-Infrastruktur seiner Kunden ist typischerweise sehr komplex und bezÃ¼glich der verwendeten Plattformen und Betriebssysteme heterogen. Seinen Mitarbeitern bietet er durch seine InternationalitÃ¤t mit zahlreichen Niederlassungen und Tochtergesellschaften viele Karrierechancen und WeiterbildungsmÃ¶glichkeiten. Freie Arbeitszeiteinteilung und viele FreirÃ¤ume gewÃ¤hrleisten eigenverantwortliches Arbeiten.
-
+Vesterling ist seit 25 Jahren einer der führenden Personaldienstleister im Bereich Technologie. Schwerpunkte der Tätigkeit sind das Recruiting von Experten bis hin zum Executive Search auf Vorstandsebene, die Durchführung von offenen und für Firmen maßgeschneiderten Trainings, Career Services sowie das Outplacement. Unsere Personalberater sind erfahrene Informatiker und Ingenieure, beraten Sie in allen Fragen zum Thema Karriere und sind Ihnen bei der Auswahl geeigneter Positionen behilflich. Unsere Stellenangebote werden täglich aktualisiert.
+Unser Klient ist ein international tätiges Softwarehaus, das branchenspezifische Standardsoftware, Beratungs- und Projektdienstleistungen anbietet. Die IT-Infrastruktur seiner Kunden ist typischerweise sehr komplex und bezüglich der verwendeten Plattformen und Betriebssysteme heterogen. Seinen Mitarbeitern bietet er durch seine Internationalität mit zahlreichen Niederlassungen und Tochtergesellschaften viele Karrierechancen und Weiterbildungsmöglichkeiten. Freie Arbeitszeiteinteilung und viele Freiräume gewährleisten eigenverantwortliches Arbeiten.
 IHRE AUFGABEN
 Als Java Developer verantworten Sie die richtlinienkonforme Umsetzung des Designs eines Softwareproduktes im Versicherungsumfeld
-Dabei kÃ¶nnen Sie den Einsatz geeigneter Programmbibliotheken, Frameworks und Entwicklungstools gestalten und interne Standards fÃ¼r Entwicklungsprozesse und Dokumentation definieren
-Sie evaluieren und analysieren LÃ¶sungen von Drittanbietern und Partnerprodukten und bringen die Erkenntnisse in die Weiterentwicklung des hausinternen Produktes ein
+Dabei können Sie den Einsatz geeigneter Programmbibliotheken, Frameworks und Entwicklungstools gestalten und interne Standards für Entwicklungsprozesse und Dokumentation definieren
+Sie evaluieren und analysieren Lösungen von Drittanbietern und Partnerprodukten und bringen die Erkenntnisse in die Weiterentwicklung des hausinternen Produktes ein
 Sie partizipieren aktiv in der Produktentwicklung, z. B. als technischer Projektleiter oder Softwareentwickler
 Innerhalb agiler Softwareentwicklungsmethoden arbeiten Sie nach Scrum bzw. Kanban
-
 IHR PROFIL
-	Abgeschlossenes Studium oder eine weiterfÃ¼hrende technische Ausbildung
+	Abgeschlossenes Studium oder eine weiterführende technische Ausbildung
 	Mindestens 2 Jahre Erfahrung in der Softwareentwicklung auf Basis JEE
 	Gute Kenntnisse in aktuellen Webtechnologien, wie Java EE, JSF, OSGI, REST im Backend und HTML5, CSS3 und JavaScript im Frontend
-	Kenntnisse Ã¼ber QualitÃ¤ts- und Performance Tools wie xUnit, Selenium, JMeter oder Gatling
-	Kenntnisse im Bereich Continuous Integration und Delivery sowie im Umgang mit verteilten Systemen wÃ¤ren von Vorteil
+	Kenntnisse über Qualitäts- und Performance Tools wie xUnit, Selenium, JMeter oder Gatling
+	Kenntnisse im Bereich Continuous Integration und Delivery sowie im Umgang mit verteilten Systemen wären von Vorteil
 	Gute Kenntnisse im Bereich agiler Softwareentwicklungsmethoden
 	Gute Deutsch- und Englischkenntnisse
-
 https://www.vesterling.com/jobs-finden/jetzt-bewerben/#
-
-/rot/-----------------------------------------/rot/
+-----------------------------------------/rot/
  - Dieser Jobanbieter macht keine Angaben seiner Gegenleistungen.
-/rot/------------------------------------------ /rot/
+------------------------------------------ /rot/
 ___________________________________________________________________________
 -----------------------------------------------------------------------  3. Monster ----->
 https://www.monster.de/jobs/suche?q=Webentwickler%2C+Full+Stack%2C+Junior+Web+Engineer&where=Hamburg&page=1
-
-
+GULP Solution Services GmbH logo
 Softwareentwickler (m/w/d)
 GULP Solution Services GmbH
 Hamburg, Hamburg
-
+Jetzt bewerben
 GEHALT
-â‚¬50000 - â‚¬70000 / Pro Jahr
-
+€50000 - €70000 / Pro Jahr
 ANSTELLUNGSART
 Vollzeit
-
 ORT
 Hamburg, Hamburg
-Zur VerstÃ¤rkung unseres Teams suchen wir Sie als
+Zur Verstärkung unseres Teams suchen wir Sie als
 Softwareentwickler (m/w/d)
-fÃ¼r den Standort Hamburg
+für den Standort Hamburg
 
 Besser Karriere machen
-Stellen Sie sich vor: die MÃ¶glichkeit einer Fach- und FÃ¼hrungskarriere. Entscheidungsfreiheit und Projektverantwortung. Maximale Sicherheit durch die Einbettung in einen weltweit agierenden Konzern. Wo? Bei uns.
+Stellen Sie sich vor: die Möglichkeit einer Fach- und Führungskarriere. Entscheidungsfreiheit und Projektverantwortung. Maximale Sicherheit durch die Einbettung in einen weltweit agierenden Konzern. Wo? Bei uns.
 Ihr Kontakt: Frau Marie-Corinne Schrimpf marie-corinne.schrimpf@gulp.de
 GULP Solution Services GmbH
 GULP in Social Media
-
 	Ihre Aufgaben
-Im Auftrag unseres GeschÃ¤ftspartners suchen wir derzeit einen agilen C# / .NET Developer in direkter Personalvermittlung. Nutzen Sie unseren Service als Sprungbrett in ein attraktives Unternehmen der IT-Branche am Standort Hamburg.
-
+Im Auftrag unseres Geschäftspartners suchen wir derzeit einen agilen C# / .NET Developer in direkter Personalvermittlung. Nutzen Sie unseren Service als Sprungbrett in ein attraktives Unternehmen der IT-Branche am Standort Hamburg.
 	Aufgaben:
-Technische Konzeption neuer LÃ¶sungen und Features nach agiler Vorgehensweise
+Technische Konzeption neuer Lösungen und Features nach agiler Vorgehensweise
 Entwicklung von Softwareanwendungen unter Verwendung von C#
 Analyse, Konzeption und Weiterentwicklung von mobilen Anwendungen
-QualitÃ¤tssicherung, Planung, DurchfÃ¼hrung sowie Dokumentation von Softwaretests
+Qualitätssicherung, Planung, Durchführung sowie Dokumentation von Softwaretests
 	Ihr Profil
-Erfolgreicher Ausbildungs- oder Studienabschluss im IT-Bereich, z.B. als (Wirtschafts-)Informatiker, Fachinformatiker fÃ¼r Anwendungsentwicklung
+Erfolgreicher Ausbildungs- oder Studienabschluss im IT-Bereich, z.B. als (Wirtschafts-)Informatiker, Fachinformatiker für Anwendungsentwicklung
 Fundierte Kenntnisse in der Entwicklung mittels C#, .Net und Visual Studio
-SpaÃŸ und Leidenschaft an der Softwareentwicklung
+Spaß und Leidenschaft an der Softwareentwicklung
 Sehr gute Deutsch- und gute Englischkenntnisse in Wort und Schrift
-SelbststÃ¤ndige und verantwortungsbewusste Arbeitsweise sowie Teamgeist
-
-/rot/-----------------------------------------/rot/
+Selbstständige und verantwortungsbewusste Arbeitsweise sowie Teamgeist
+-----------------------------------------/rot/
 	Was wir bieten
-Direkte Personalvermittlung sowohl fÃ¼r Berufseinsteiger als auch fÃ¼r Profis
+Direkte Personalvermittlung sowohl für Berufseinsteiger als auch für Profis
 Passgenaues Briefing zu der beschriebenen Position und unserem Mandanten
-Attraktive, leistungsgerechte VergÃ¼tung
+Attraktive, leistungsgerechte Vergütung
 Zahlreiche Direktkontakte zu Personalentscheidern
-WertschÃ¤tzende und vertrauensvolle Betreuung wÃ¤hrend des gesamten Vermittlungsprozesses
-Intensive Vorbereitung auf das VorstellungsgesprÃ¤ch bei unserem Auftraggeber      
-/rot/-------------------------------------------/rot/
-
-	Corona-Virus & Bewerbung bei GULP: Die Gesundheit unserer Kandidaten und 	Mitarbeiter und unsere 	gemeinschaftliche Verantwortung haben hÃ¶chste PrioritÃ¤t 	fÃ¼r uns. Neben Arbeitsbedingungen, die alle 	aktuell notwendigen 	VorsichtsmaÃŸnahmen berÃ¼cksichtigen, ist auch unser Bewerbungsprozess ohne 	direkten und persÃ¶nlichen Kontakt mÃ¶glich.
+Wertschätzende und vertrauensvolle Betreuung während des gesamten Vermittlungsprozesses
+Intensive Vorbereitung auf das Vorstellungsgespräch bei unserem Auftraggeber      
+-------------------------------------------/rot/
+	Corona-Virus & Bewerbung bei GULP: Die Gesundheit unserer Kandidaten und 	Mitarbeiter und unsere 	gemeinschaftliche Verantwortung haben höchste Priorität 	für uns. Neben Arbeitsbedingungen, die alle 	aktuell notwendigen 	Vorsichtsmaßnahmen berücksichtigen, ist auch unser Bewerbungsprozess ohne 	direkten und persönlichen Kontakt möglich.
 	Ihre Vorteile auf einen Blick
-Experts United - Starten Sie bei GULP
-GULP ist ein fÃ¼hrender Personaldienstleister in den Bereichen IT, Engineering und Finance. Ganz gleich, ob Sie Berufsstarter sind, Ã¼ber langjÃ¤hrige Berufserfahrung verfÃ¼gen oder Ihre Karriere in eine neue Richtung entwickeln mÃ¶chten: Von uns erhalten Sie die Position, die am besten zu Ihnen passt. GULP bietet Ihnen zudem die MÃ¶glichkeit, besser und schneller Karriere zu machen als in den meisten Industrieunternehmen. Durch unsere Einbindung in die Randstad Gruppe Deutschland verfÃ¼gen wir Ã¼ber 4.000 RahmenvertrÃ¤ge und arbeiten somit nahezu fÃ¼r jedes deutsche DAX-Unternehmen. Dadurch erhalten Sie die MÃ¶glichkeit, bei Top-Unternehmen und WeltmarktfÃ¼hrern zum Einsatz zu kommen. Freuen Sie sich auf spannende Projekte und wechselnde Aufgaben.
+Experts United – Starten Sie bei GULP
+GULP ist ein führender Personaldienstleister in den Bereichen IT, Engineering und Finance. Ganz gleich, ob Sie Berufsstarter sind, über langjährige Berufserfahrung verfügen oder Ihre Karriere in eine neue Richtung entwickeln möchten: Von uns erhalten Sie die Position, die am besten zu Ihnen passt. GULP bietet Ihnen zudem die Möglichkeit, besser und schneller Karriere zu machen als in den meisten Industrieunternehmen. Durch unsere Einbindung in die Randstad Gruppe Deutschland verfügen wir über 4.000 Rahmenverträge und arbeiten somit nahezu für jedes deutsche DAX-Unternehmen. Dadurch erhalten Sie die Möglichkeit, bei Top-Unternehmen und Weltmarktführern zum Einsatz zu kommen. Freuen Sie sich auf spannende Projekte und wechselnde Aufgaben.
+	Sie haben Interesse?
+Dann bewerben Sie sich jetzt bei GULP unter Angabe Ihrer Gehaltsvorstellungen.
+	Um die Lesbarkeit des Textes zu verbessern, wird für die Bezeichnung von Personen, 	Funktionen etc. die männliche Form verwendet. Sie steht jedoch ausnahmslos für 	beide Geschlechter.
 
 GULP - Experts united
 a Randstad Company
 _______________________________________________________________________
 ------------------------------------------------------  4. stepstone ---->
 https://www.stepstone.de/stellenangebote--Web-und-App-Entwickler-m-w-d-Grossraum-Hamburg-Hypersoft-Trading-GmbH--7758787-inline.html?suid=384c0106-af41-40a7-94bb-dba0131d7ae0&rltr=5_5_25_dynrl_m_0_0_0_0_1_0
-
 Hypersoft Trading GmbH
-
+Einer der ersten Bewerber seinGroßraum HamburgFeste AnstellungVollzeit, Home Office möglichErschienen: vor 4 Tagen
 	Web- und App- Entwickler (m/w/d)
-
-Zum nÃ¤chstmÃ¶glichen Zeitpunkt suchen wir einen Web- und App- Entwickler (w/m/d).
-
-	ÃœBER HYPERSOFT
-Hypersoft ist seit mehr als 20 Jahren und mit tausenden zufriedenen Kunden einer der fÃ¼hrenden Gastronomie-Kassensystem-Hersteller in Deutschland, Ã–sterreich und der Schweiz. Von der POS-Kasse Ã¼ber das Stock-Management bis hin zu Cloud-Services bietet Hypersoft ein vollkommen integriertes und individuelles Erlebnis, dass durch zahlreiche Module flexibel erweitert werden kann. Wir laden Dich ein, Teil dieses erfolgreichen Teams zu werden und die Zukunft von Hypersoft aktiv mitzugestalten. Mit Leidenschaft geben wir jeden Tag alles, um unseren Kunden den bestmÃ¶glichen Support fÃ¼r unsere zahlreichen SoftwarelÃ¶sungen rund um die Gastronomie zu liefern.
-
-	Zu Deinen Aufgaben zÃ¤hlt:
-Im Team erweiterst du unsere Web- und App- LÃ¶sungen fÃ¼r die Gastronomie.
-Du unterstÃ¼tzt uns bei der Ausarbeitung von neuen Funktionen und spannenden Ideen.
+Zum nächstmöglichen Zeitpunkt suchen wir einen Web- und App- Entwickler (w/m/d).
+	ÜBER HYPERSOFT
+Hypersoft ist seit mehr als 20 Jahren und mit tausenden zufriedenen Kunden einer der führenden Gastronomie-Kassensystem-Hersteller in Deutschland, Österreich und der Schweiz. Von der POS-Kasse über das Stock-Management bis hin zu Cloud-Services bietet Hypersoft ein vollkommen integriertes und individuelles Erlebnis, dass durch zahlreiche Module flexibel erweitert werden kann. Wir laden Dich ein, Teil dieses erfolgreichen Teams zu werden und die Zukunft von Hypersoft aktiv mitzugestalten. Mit Leidenschaft geben wir jeden Tag alles, um unseren Kunden den bestmöglichen Support für unsere zahlreichen Softwarelösungen rund um die Gastronomie zu liefern.
+	Zu Deinen Aufgaben zählt:
+Im Team erweiterst du unsere Web- und App- Lösungen für die Gastronomie.
+Du unterstützt uns bei der Ausarbeitung von neuen Funktionen und spannenden Ideen.
 Du Analysierst, Dokumentierst und implementierst neue Anwendungen und Funktionen.
-Du arbeitest eng mit unserer QualitÃ¤tskontrolle zusammen.
-
+Du arbeitest eng mit unserer Qualitätskontrolle zusammen.
 	Was Du mitbringen solltest:
-Du bist lernbereit, zuverlÃ¤ssig und hast ein freundliches Auftreten.
-Du hast ein abgeschlossenes Studium im Bereich Informatik oder eine Berufsausbildung zum Fachinformatiker fÃ¼r Anwendungsentwicklung.
-Du begeisterst dich fÃ¼r zeitgemÃ¤ÃŸe iOS- und Android-Apps.
+Du bist lernbereit, zuverlässig und hast ein freundliches Auftreten.
+Du hast ein abgeschlossenes Studium im Bereich Informatik oder eine Berufsausbildung zum Fachinformatiker für Anwendungsentwicklung.
+Du begeisterst dich für zeitgemäße iOS- und Android-Apps.
 Du gehst sicher mit Javascript/Typescript, Angular und HTML/CSS um.
-Du hast ein ausgeprÃ¤gtes QualitÃ¤tsbewusstsein.
-
-/rot/-----------------------------------------------/rot/
+Du hast ein ausgeprägtes Qualitätsbewusstsein.
+-----------------------------------------------/rot/
 	Was wir Dir bieten:
-Du arbeitest selbststÃ¤ndig in einem angenehmen Betriebsklima mit flachen Hierarchien und kurzen Entscheidungswegen.
+Du arbeitest selbstständig in einem angenehmen Betriebsklima mit ?achen Hierarchien und kurzen Entscheidungswegen.
 Bei uns kannst du eigene Ideen verwirklichen und die Zukunft von Hypersoft aktiv mitgestalten.
-Wir bieten dir einen zukunftssicheren Arbeitsplatz, eine Festanstellung sowie eine leistungsgerechte VergÃ¼tung.
-Wir bieten dir eine optimale Verkehrsanbindung, Homeoffice, Jobrad, betriebliche Altersvorsorge, GetrÃ¤nke, HVV-Ticket, uvm.		
-/rot/--------------------------------------------------/rot/
-
-Bewerbungsunterlagen, unter Angabe des frÃ¼hestmÃ¶glichen Eintrittsdatums sowie
+Wir bieten dir einen zukunftssicheren Arbeitsplatz, eine Festanstellung sowie eine leistungsgerechte Vergütung.
+Wir bieten dir eine optimale Verkehrsanbindung, Homeoffice, Jobrad, betriebliche Altersvorsorge, Getränke, HVV-Ticket, uvm.		
+--------------------------------------------------/rot/
+Haben wir Dein Interesse geweckt?
+Dann sende uns bitte Deine aussagekräftigen Bewerbungsunterlagen, unter Angabe des frühestmöglichen Eintrittsdatums sowie
 Deiner Gehaltsvorstellung, per Email an: personal@hypersoft.de.
 Das Team von Hypersoft freut sich auf Deine Bewerbung!
 
 Hypersoft Trading GmbH
 Betreff: Entwickler
-AmtsstraÃŸe 9
+Amtsstraße 9
 22143 Hamburg
 
+	Nur um Missverständnisse zu vermeiden, möchten wir betonen, dass sich diese 	Stellenausschreibung 	diskriminierungsfrei an alle Menschen richtet, insbesondere 	Geschlecht, Alter, Rasse, Religion, philosophische 	Überzeugungen 	(Weltanschauung), Gewerkschaftszugehörigkeit, politische Meinung, sexuelle 	Selbstbestimmung, ethnische Herkunft oder Behinderung sind für uns keine 	Auswahlkriterien.
 _______________________________________________________________________
 ---------------------------------------------------------------------- 5. jobware ---------->
 https://www.jobware.de/job/softwareentwickler-m-w-d-frontend-backend-fullstack.679137825.html
-
-	Softwareentwickler (m/w/d) Frontend / Backend / Fullstack
-Standort: Frankfurt am Main, MÃ¼nchen, NÃ¼rnberg, Stuttgart, Hamburg, DÃ¼sseldorf, ZÃ¼richStart: Startdatum nach Vereinbarung
-
-AUSY Technologies ist einer der fÃ¼hrenden Anbieter fÃ¼r kundenspezifische Softwareentwicklung und Beratung in Deutschland. Als agiler Enabler steigern wir die Effizienz und WettbewerbsfÃ¤higkeit namhafter Unternehmen aus unterschiedlichen Branchen. Gemeinsam mit unseren Kunden gestalten wir die Zukunft. Dabei sind wir sehr Ã¼berzeugt: Es sind die Menschen, die den Unterschied machen. Wo gelebte Begeisterung und wegweisende Ideen auf innovative Technologien treffen, kann GroÃŸes entstehen. Machen wir es gemeinsam mÃ¶glich!
-
+	Software­entwickler (m/w/d) Frontend / Backend / Fullstack
+Standort: Frankfurt am Main, München, Nürnberg, Stuttgart, Hamburg, Düsseldorf, ZürichStart: Startdatum nach Vereinbarung
+AUSY Technologies ist einer der führenden Anbieter für kundenspezifische Softwareentwicklung und Beratung in Deutschland. Als agiler Enabler steigern wir die Effizienz und Wettbewerbsfähigkeit namhafter Unternehmen aus unterschiedlichen Branchen. Gemeinsam mit unseren Kunden gestalten wir die Zukunft. Dabei sind wir sehr überzeugt: Es sind die Menschen, die den Unterschied machen. Wo gelebte Begeisterung und wegweisende Ideen auf innovative Technologien treffen, kann Großes entstehen. Machen wir es gemeinsam möglich!
 	Das erwartet Sie bei uns
-Als Software Developer entwickeln Sie gemeinsam mit unseren Kolleginnen und Kollegen maÃŸgeschneiderte SoftwarelÃ¶sungen fÃ¼r unsere Kunden. Dies geschieht je nach Projekt beim Kunden vor Ort oder Inhouse in unseren BÃ¼ros. 
+Als Software Developer entwickeln Sie gemeinsam mit unseren Kolleginnen und Kollegen maßgeschneiderte Softwarelösungen für unsere Kunden. Dies geschieht je nach Projekt beim Kunden vor Ort oder Inhouse in unseren Büros. 
 Sie konzipieren und implementieren anspruchsvolle skalierbare Microservices und Microfrontends mit Spring Boot, Jakarta EE (ehemals Java EE), Kotlin oder Node.js.
 Mit modernen JavaScript-Frameworks wie Angular oder React bauen Sie nutzerorientierte Web-Applikationen.
 Neben relationalen Datenbanken kommen auch NoSQL- und eventbasierte Systeme wie Kafka zum Einsatz.
-Sie arbeiten mit modernen Cloud Technologien (Openshift, Kubernetes, AWS, Azure, uvm.), um Ihre Software in den Betrieb zu fÃ¼hren und die Innovation zu treiben.
-Clean Code und Test Driven Development (TDD) sind fÃ¼r Sie wichtige Bestandteile im Softwareentwicklungsprozess.
-
+Sie arbeiten mit modernen Cloud Technologien (Openshift, Kubernetes, AWS, Azure, uvm.), um Ihre Software in den Betrieb zu führen und die Innovation zu treiben.
+Clean Code und Test Driven Development (TDD) sind für Sie wichtige Bestandteile im Software­entwicklungsprozess.
 	Anforderungen
 Ein abgeschlossenes Hochschulstudium in (Wirtschafts-)Informatik oder eine vergleichbare Ausbildung sind von Vorteil.
 Sie entwickeln leidenschaftlich gerne Software und konnten Ihre Kenntnisse als Entwickler bereits in der Praxis im Rahmen einer Ausbildung, einem Praktikum oder erster Berufserfahrung unter Beweis stellen.
-Sie wollen mit Java & JavaScript-basierter Software arbeiten und mit Hilfe von objektorientierter Entwicklung herausragende SoftwarelÃ¶sungen fÃ¼r unsere Kunden entwickeln.
-Ein agiles Mindset, hohes QualitÃ¤tsbewusstsein, TeamplayerqualitÃ¤ten und starke kommunikative FÃ¤higkeiten (in Deutsch) zeichnen Sie aus.
-IT starts with people. 	Unser nachhaltiger Erfolg beruht auf unserem ausgeprï¿½Ã¤gten Teamgeist und der Kultur des gegenseitigen Vertrauens.
-
-/rot/-------------------------------------------------/rot/
+Sie wollen mit Java & JavaScript-basierter Software arbeiten und mit Hilfe von objektorientierter Entwicklung herausragende Softwarelösungen für unsere Kunden entwickeln.
+Ein agiles Mindset, hohes Qualitätsbewusstsein, Teamplayerqualitäten und starke kommunikative Fähigkeiten (in Deutsch) zeichnen Sie aus.
+IT starts with people. 	Unser nachhaltiger Erfolg beruht auf unserem ausgeprägten Teamgeist und der Kultur des gegenseitigen Vertrauens.
+-------------------------------------------------/rot/
 	Unsere Leistungen
-Spannende ProjekteinsÃ¤tze - Attraktives VergÃ¼tungsmodell - Vereinbarkeit von Beruf und Privatleben - Umfangreiches Weiterbildungsangebot - ZusÃ¤tzliche Leistungen bei Reiseprojekten - Buch- und IT-Budget - Attraktive BÃ¼ro-Standorte - Firmenfeiern - Special Interest Groups		
-/rot/---------------------------------------------------/rot/
-
+Spannende Projekt­einsätze - Attraktives Vergütungs­modell - Vereinbarkeit von Beruf und Privatleben - Umfangreiches Weiterbil­dungs­angebot - Zusätzliche Leis­tungen bei Reiseprojekten - Buch- und IT-Budget - Attrak­tive Büro-Stand­orte - Firmenfeiern - Special Interest Groups		
+---------------------------------------------------/rot/
 Logo: AUSY Technologies Germany AG
 Haben Sie Fragen?  Dann melden Sie sich gerne bei mir:
 Magdalena Karl 
@@ -255,35 +224,42 @@ career@ausy-technologies.de
 +49 89 57952-553
 	Bewerben Sie sich jetzt unter
 www.ausy-technologies.de/karriere
-
-
-
-________________________________________________________________________
-
+­­­­­­­­­­­­­­­­­­­­­­­________________________________________________________________________
 ## Aufgabenstellung - Teil 2
-
 Schreibe aus den Stellenangeboten aus Aufgabenteil 1 folgende Eckdaten zusammen:
-1. Sind schulische oder berufliche Vorerfahrungen erwÃ¼nscht?
-	Auf geschlossene Fragen gebe ich geschlossene Antworten:
- 	ja.
-
-2. Werden bestimmte Technologien erwï¿½hnt (z.B. React oder HTML)?
- 	ja.
-
+1. Sind schulische oder berufliche Vorerfahrungen erwünscht?
+Auf geschlossene Fragen gebe ich geschlossene Antworten.
+ ja.
+2. Werden bestimmte Technologien erwähnt (z.B. React oder HTML)?
+ja.
 3. Was bietet das Unternehmen seinen Mitarbeitern an (z.B. flexible Gleitzeit)?
-	- die entsprechenden Angaben sind in den recherchierten Kopien oben in  /rot/ markiert.
-
+- die entsprechenden Angaben sind in den recherchierten Kopien oben in  /rot/ markiert.
 4. Zeichnet sich das Unternehmen durch eine bestimmte Firmenpolitik aus?
-		1.) VPL Leasing GmbH (jobcebter)
-	Dieses Unternehmen macht einen sehr liberalen Eindruck.
-		2.) VESTERLING - HAVE A NICE JOB | HAMBURG (indeed)
-	Hier gibt es keinen Hinweis.
-		3.) GULP Solution Services GmbH  (Monster)
-	Dieses Personaldienstleistungsunternehmen bietet engen Support zwischen dem Dienstleister und dem Anbieter.
-		4.) Hypersoft Trading GmbH (stepstone)
-	Das Unternehmen gibt an, dass es sich um einen Arbeitsplatz mit angenehmem Betriebsklima und ?achen Hierarchien handelt.
-		5.) AUSY Technologies Germany AG (jobware)
-	Diese Firma macht einen sehr konservativen Eindruck auf mich.
+	1.) VPL Leasing GmbH (jobcebter)
+Dieses Unternehmen macht einen sehr liberalen Eindruck.
+	2.) VESTERLING - HAVE A NICE JOB | HAMBURG (indeed)
+Hier gibt es keinen Hinweis.
+	3.) GULP Solution Services GmbH  (Monster)
+Dieses Personaldienstleistungsunternehmen bietet engen Support zwischen dem Dienstleister und dem Anbieter.
+	4.) Hypersoft Trading GmbH (stepstone)
+Das Unternehmen gibt an, dass es sich um einen Arbeitsplatz mit angenehmem Betriebsklima und ?achen Hierarchien handelt.
+	5.) AUSY Technologies Germany AG (jobware)
+Diese Firma macht einen ziemlich konservativen Eindruck auf mich.
 
 5. Was bedeuted der Begriff "Gleitzeit"?
-	Flexible Arbeitzeit
+Flexible Arbeitzeit
+___________________________________________________________________________
+Aufgabenstellung - Teil 3
+Kununu (https://www.kununu.com/) ist eine Plattform, in der Mitarbeiter ihren Arbeitgeber anonym bewerten können.
+Die Plattform sammelt die Bewertungen und stellt sie im Internet zur Verfügung.
+Folge dem Link, um auf Mitarbeiterberwertungen zur DCI zuzugreifen:
+https://www.kununu.com/de/dci-digital-career-institute-ggmbh
+---------------------- Beantworte nun folgende Fragen:
+Welchen Score hat die DCI erreicht?
+4,0
+Wie hoch ist die Weiterempfehlungsrate?
+73%
+Gibt es Angaben zu Gehältern und zur Firmenpolitik?
+ja.
+Suche nun nach weiteren Unternehmen (z.B. aus den Stellenangeboten aus Aufgabenteil 1).
+ok.

@@ -1,0 +1,49 @@
+body{
+    background-color: rgb(10, 2, 36);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgba(255, 235, 205, 0.815);
+    display: grid;
+    margin: 3rem 20rem;
+    margin-bottom: 5rem;
+}
+a{
+    color: cyan;
+}
+.red{
+    color: rgba(233, 107, 107, 0.76);
+}
+#ok{
+    display: flex;
+}
+p{
+    margin: 0;
+    margin-top: 1.3rem;
+    margin-left: 2rem;
+}
+ul{
+    color: rgba(230, 125, 39, 0.87);
+}
+button{
+    width: 9rem;
+    height: 2rem;
+    background-color: rgb(2, 41, 2);
+}
+.green{
+    color: rgba(0, 255, 255, 0.548);
+}
+.dsGehalt{
+    color: rgba(0, 255, 255, 0.548);
+}
+.innerBox{
+    display: grid;
+}
+#googleRech{
+    text-align: center;
+    margin-top: .5rem;
+}
+#center{
+    text-align: right;
+}
+img{
+    margin-top: 2rem;
+}
